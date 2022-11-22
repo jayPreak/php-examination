@@ -1,4 +1,4 @@
-# awawa-php-examination
+# php-examination
 examination courses shit w php 
 
 
